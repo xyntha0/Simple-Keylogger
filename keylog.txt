@@ -1,0 +1,4 @@
+bbbb [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]   g   [Key.shift_r]  [Key.shift_r] explain what is that 2nd project  [Key.backspace]  [Key.shift_r] ? what i have to do in that 
+w
+
+ [Key.shift_r] +++ [Key.backspace]  [Key.caps_lock]  [Key.caps_lock]  [Key.esc]  [Key.shift] ninna
